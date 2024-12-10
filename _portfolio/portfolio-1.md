@@ -1,6 +1,6 @@
 ---
 title: "Speech therapy game using simplified ultrasound biofeedback"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/simplified_ultrasound_biofeedback.gif'>"
+excerpt: "<div>align='center'<img src='/images/simplified_ultrasound_biofeedback.gif'></div>"
 collection: portfolio
 ---
 
