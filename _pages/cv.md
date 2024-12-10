@@ -25,15 +25,15 @@ Publications
 Service
 ======
 * Research Fellowship Awards Committee Member (Graduate Student Government), Mar. 2024
-•	Reviewer | Undergraduate Scholarly Showcase, Apr. 2021 and 2022
-•	Treasurer | Biomedical Engineering Graduate Student Association, Sep. 2020 – Dec. 2024
+*	Reviewer | Undergraduate Scholarly Showcase, Apr. 2021 and 2022
+*	Treasurer | Biomedical Engineering Graduate Student Association, Sep. 2020 – Dec. 2024
 
 Awards
 ======
-* Honorable Mention | dmi:Design Value Award Winner (TonguePARTS), Sep. 2023
-* Graduate Student Engineer of the Month | University of Cincinnati, Jun. 2023
-* Shortlisted for ISCA Best Student Paper Award | INTERSPEECH 2021, Aug. 2021
-* IPA Student Award | ICPhS 2019, Aug. 2019
+* Honorable Mention, dmi:Design Value Award Winner (TonguePARTS), Sep. 2023
+* Graduate Student Engineer of the Month, University of Cincinnati, Jun. 2023
+* Shortlisted for ISCA Best Student Paper Award, Interspeech 2021, Aug. 2021
+* IPA Student Award, ICPhS 2019, Aug. 2019
 * Invited to give Three Minute Thesis at University of Cincinnati Bicentennial Community Day, Apr. 2019
 * Tau Beta Pi member, Jan. 2016
-* Trustees Scholarship | Purdue University, Aug. 2014
+* Trustees Scholarship, Purdue University, Aug. 2014
