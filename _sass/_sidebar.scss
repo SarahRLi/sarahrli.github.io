@@ -143,8 +143,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
-    border-bottom: 1px solid #888;
+    margin-bottom: 10px;
   }
 }
 
@@ -166,7 +165,8 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
-
+  border-top: 1px solid #888;
+   
   li:last-child {
     a {
       margin-bottom: 0;
