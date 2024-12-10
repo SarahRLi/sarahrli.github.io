@@ -1,5 +1,5 @@
 ---
-title: "Speech therapy game using simplified ultrasound biofeedback"
+title: "<div align='center'>Speech therapy game using simplified ultrasound biofeedback</div>"
 excerpt: "<div align='center'><img src='/images/simplified_ultrasound_biofeedback.gif'></div>"
 collection: portfolio
 ---
