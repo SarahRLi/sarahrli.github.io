@@ -1,17 +1,19 @@
 ---
 layout: default
 title: "Publications"
-permalink: /list/
+permalink: /publications/
 author_profile: true
 ---
-#PUBLICATIONS:
+{% include base_path %} 
+
+<h2>PUBLICATIONS:</h2>
 S. Dugan, S. M. Schwab, R. Seward, J. Avant, T. Zhang, S. R. Li, K. Eary, T. D. Mast, M. A. Riley, S. Boyce. (2023). “A qualitative analysis of clinician perspectives of ultrasound biofeedback for speech sound disorders,” American Journal of Speech-Language Pathology, vol. 32, no. 3, pp. 1252–1274 (2023), doi: 10.1044/2023_AJSLP-22-00194.
 
 S. R. Li, S. Dugan, J. Masterson, H. Hudepohl, C. Annand, C. Spencer, R. Seward, M. A. Riley, S. Boyce, T. D. Mast, “Classification of accurate and misarticulated /ɑr/ for ultrasound biofeedback using tongue part displacement trajectories,” Clinical Linguistics & Phonetics, pp. 1–27 (2022), doi: 10.1080/02699206.2022.2039777.
 
 S. Dugan, S. R. Li, J. A. Masterson, H. M. Woeste, N. Mahalingam, C. Spencer, T. D. Mast, M. A. Riley, S. E. Boyce, “Tongue part movement trajectories for /r/ using ultrasound,” Perspectives of the ASHA Special Interest Groups, vol. 4, no. 6, pp. 1644–1652 (2019), doi: 10.1044/2019_PERS-19-00064.
 
-#CONFERENCE PROCEEDINGS:
+<h2>CONFERENCE PROCEEDINGS:</h2>
 S. R. Li, S. Dugan, S. M. Schwab, C. Annand, J. Masterson, S. Boyce, M. A. Riley, T. D. Mast, “Comparing tongue movement vs. shape representations from ultrasound imaging of /ɑ/ and /ɹ/ articulatory strategies,”  Stem-, Spraak- en Taalpathologie, vol. 27, suppl., pp. 235-236 (2022), doi: 10.21827/32.8310/2022-115. Presenter, Poster (Aug. 2022).
 
 S. R. Li, C. T. Annand, S. Dugan, S. M. Schwab, K. J. Eary, M. Swearengen, S. Stack, S. Boyce, M. A. Riley, T. D. Mast, “An automatic, simple ultrasound biofeedback parameter for distinguishing accurate and misarticulated rhotic syllables,” Proceedings of the 22nd Annual Conference of the International Speech Communication Association, 636-640, doi: 10.21437/Interspeech.2021-1749. (INTERSPEECH 2021). Presenter, Poster / Unified Virtual Session (Aug. 2021), Shortlisted for ISCA Best Student Paper Award.
@@ -20,7 +22,7 @@ C. T. Annand, M. Lamb, S. Dugan, S. R. Li, H. M. Woeste, T. D. Mast, M. A. Riley
 
 S. R. Li, H. M. Woeste, S. Dugan, T. D. Mast, M. A. Riley, C. Annand, J. A. Masterson, N. Mahalingam, K. J. Eary, C. Spencer, S. E. Boyce, “Differentiating normal vs. misarticulated tongue trajectories from ultrasound for fast automatic articulatory biofeedback,” Proceedings of the 19th International Congress of Phonetic Sciences, pp. 1074-1078, ISBN 978-0-646-80069-1. Melbourne, Australia (ICPhS 2019). Presenter, Oral (Aug. 2019), IPA Student Award.
 
-#CONFERENCE ABSTRACTS AND PRESENTATIONS:
+<h2>CONFERENCE ABSTRACTS AND PRESENTATIONS:</h2>
 S. R. Li, A. Knapp, J. Tang, S. Boyce, T. D. Mast, “Predicting vocal tract shape information from tongue contours and audio using neural networks,” J Acost Soc Am (2024). Presenter, Poster (May 2024).        Poster: https://github.com/SarahRLi/asa-may-2024 
 
 S. Biehl, S. Dugan, S. R. Li, A. Knapp, R. Seward, M. A. Riley, S. Boyce, T. D. Mast, “Optimization of classifying accurate and misarticulated speech sounds for use in a gamified real-time ultrasound biofeedback system,” J Acost Soc Am (2024). 
