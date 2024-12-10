@@ -1,6 +1,6 @@
 ---
 title: "<div align='center'>Ultrasound image simulations to improve tongue shape interpretation</div>"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/ultrasound_tongue_simulation.gif'>"
+excerpt: "<div align='center'><img src='/images/ultrasound_tongue_simulation.gif'></div>"
 collection: portfolio
 ---
 
@@ -9,4 +9,3 @@ Although ultrasound images of the tongue provide useful articulatory information
 Presentations:
 - "Numerical simulations for characterization of missing articulatory information in ultrasound imaging for speech," *ASA*, 2023. [Poster](https://github.com/SarahRLi/sarahrli.github.io/files/Li_2023_ASA_5aBAb16_poster.pdf), [Slides](https://github.com/SarahRLi/sarahrli.github.io/files/Li_2023_ASA_5aBAb16_slides.pptx)
 - "Quantifying tongue tip visibility in ultrasound images of /r/ tongue shapes using numerical ultrasound simulations," *ASA*, 2023. [Poster](https://github.com/SarahRLi/sarahrli.github.io/files/Li_2023_ASA_5aSC37_poster.pdf)
-
