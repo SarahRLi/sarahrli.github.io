@@ -3,6 +3,7 @@ title: "<div align='center'>Ultrasound image simulations to improve tongue shape
 excerpt: "<div align='center'><img src='/images/ultrasound_tongue_simulation.gif'></div>"
 collection: portfolio
 ---
+<div align='center'><img src='/images/ultrasound_tongue_simulation.gif'></div>
 
 Although ultrasound images of the tongue provide useful articulatory information for speech therapy, limitations in ultrasound imaging can confuse interpretation of the tongue shape. This study used models of acoustic wave propagation ([k-Wave toolbox](http://www.k-wave.org/), Treeby & Cox, 2010) to simulate ultrasound images based on tongue shapes segmented from magnetic resonance images (MRI). The visible tongue surface on the simulated ultrasound images were compared to the tongue shapes to determine guidelines for interpretation. (Manuscript in progress.)
 
