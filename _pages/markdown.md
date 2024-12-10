@@ -1,293 +1,43 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /publications/
+title: "Publications"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
 ---
 
-## Locations of key files/directories
+<h2>PUBLICATIONS:</h2>
+S. Dugan, S. M. Schwab, R. Seward, J. Avant, T. Zhang, S. R. Li, K. Eary, T. D. Mast, M. A. Riley, S. Boyce. (2023). “A qualitative analysis of clinician perspectives of ultrasound biofeedback for speech sound disorders,” American Journal of Speech-Language Pathology, vol. 32, no. 3, pp. 1252–1274 (2023), doi: 10.1044/2023_AJSLP-22-00194.
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+S. R. Li, S. Dugan, J. Masterson, H. Hudepohl, C. Annand, C. Spencer, R. Seward, M. A. Riley, S. Boyce, T. D. Mast, “Classification of accurate and misarticulated /ɑr/ for ultrasound biofeedback using tongue part displacement trajectories,” Clinical Linguistics & Phonetics, pp. 1–27 (2022), doi: 10.1080/02699206.2022.2039777.
 
-## Tips and hints
+S. Dugan, S. R. Li, J. A. Masterson, H. M. Woeste, N. Mahalingam, C. Spencer, T. D. Mast, M. A. Riley, S. E. Boyce, “Tongue part movement trajectories for /r/ using ultrasound,” Perspectives of the ASHA Special Interest Groups, vol. 4, no. 6, pp. 1644–1652 (2019), doi: 10.1044/2019_PERS-19-00064.
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
-  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
-  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
+<h2>CONFERENCE PROCEEDINGS:</h2>
+S. R. Li, S. Dugan, S. M. Schwab, C. Annand, J. Masterson, S. Boyce, M. A. Riley, T. D. Mast, “Comparing tongue movement vs. shape representations from ultrasound imaging of /ɑ/ and /ɹ/ articulatory strategies,”  Stem-, Spraak- en Taalpathologie, vol. 27, suppl., pp. 235-236 (2022), doi: 10.21827/32.8310/2022-115. Presenter, Poster (Aug. 2022).
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
-
-## MathJax 
-
-Support for MathJax Version 3.0 is included in the template:
-
-$$
-\displaylines{
-\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
-\nabla \cdot B=0 \\\
-\nabla \times E= -\partial_tB \\\
-\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
-}
-$$
+S. R. Li, C. T. Annand, S. Dugan, S. M. Schwab, K. J. Eary, M. Swearengen, S. Stack, S. Boyce, M. A. Riley, T. D. Mast, “An automatic, simple ultrasound biofeedback parameter for distinguishing accurate and misarticulated rhotic syllables,” Proceedings of the 22nd Annual Conference of the International Speech Communication Association, 636-640, doi: 10.21437/Interspeech.2021-1749. (INTERSPEECH 2021). Presenter, Poster / Unified Virtual Session (Aug. 2021), Shortlisted for ISCA Best Student Paper Award.
 
-The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
+C. T. Annand, M. Lamb, S. Dugan, S. R. Li, H. M. Woeste, T. D. Mast, M. A. Riley, J. A. Masterson, N. Mahalingam, K. J. Eary, C. Spencer, S. E. Boyce, S. Jackson, A. Baxi, R. Seward, “Using ultrasound imaging to create augmented visual biofeedback for articulatory practice,” Proceedings of the 20th Annual Conference of the International Speech Communication Association, pp. 974-975. Graz, Austria (INTERSPEECH 2019).
 
-**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
+S. R. Li, H. M. Woeste, S. Dugan, T. D. Mast, M. A. Riley, C. Annand, J. A. Masterson, N. Mahalingam, K. J. Eary, C. Spencer, S. E. Boyce, “Differentiating normal vs. misarticulated tongue trajectories from ultrasound for fast automatic articulatory biofeedback,” Proceedings of the 19th International Congress of Phonetic Sciences, pp. 1074-1078, ISBN 978-0-646-80069-1. Melbourne, Australia (ICPhS 2019). Presenter, Oral (Aug. 2019), IPA Student Award.
 
-## Markdown guide
+<h2>CONFERENCE ABSTRACTS AND PRESENTATIONS:</h2>
+S. R. Li, A. Knapp, J. Tang, S. Boyce, T. D. Mast, “Predicting vocal tract shape information from tongue contours and audio using neural networks,” J Acost Soc Am (2024). Presenter, Poster (May 2024).        Poster: https://github.com/SarahRLi/asa-may-2024 
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+S. Biehl, S. Dugan, S. R. Li, A. Knapp, R. Seward, M. A. Riley, S. Boyce, T. D. Mast, “Optimization of classifying accurate and misarticulated speech sounds for use in a gamified real-time ultrasound biofeedback system,” J Acost Soc Am (2024). 
 
-### Header three
+S. R. Li, T. D. Mast, S. Boyce, “Quantifying tongue tip visibility in ultrasound images of /r/ tongue shapes using numerical ultrasound simulations,” J Acost Soc Am, vol. 153, no. 3, pp. A372 (2023), doi: 10.1121/10.0019217. Presenter, Poster (May 2023). Posters: https://github.com/SarahRLi/asa-may-2023 
 
-#### Header four
+S. R. Li, S. Boyce, T. D. Mast, “Numerical simulations for characterization of missing articulatory information in ultrasound imaging of speech,” J Acost Soc Am, vol. 153, no. 3, pp. A358 (2023), doi: 10.1121/10.0019151. Presenter, Poster and Oral (May 2023).
 
-##### Header five
+S. Dugan, S. R. Li, K. Eary, A. Spotts, N. S. Schoenleb, B. Connolly, R. Seward, M. A. Riley, T. D. Mast, S. Boyce, “Articulatory response to delayed and real-time feedback based on regional tongue displacements,” J Acost Soc Am, vol. 152, no. 4, pp. A199 (2022), doi: 10.1121/10.0016021.
 
-###### Header six
+S. R. Li, K. Eary, S. Dugan, M. Lamb, M. Becker, R. Seward, S. Boyce, M. A. Riley, T. D. Mast, “Preliminary gamified ultrasound visual biofeedback on rhotic syllable tongue movement for speech therapy,” Institute for Research in Sensing Conference (IRiS Ignite). Presenter, Poster (May 2022).
 
-## Blockquotes
+S. R. Li, C. T. Annand, S. Dugan, S. M. Schwab, K. J. Eary, M. Swearengen, S. Stack, S. Boyce, M. A. Riley, T. D. Mast, “A preliminary real-time ultrasound biofeedback display for simpler differentiation between accurate and misarticulated rhotic syllables,” Workshop for 12th International Seminar on Speech Production in New Haven, Connecticut (Invited workshop for ISSP 2020, held in 2021). Presenter, Oral (Aug. 2021).
 
-Single line blockquote:
+S. R. Li, S. Dugan, C. Annand, K. Eary, M. Swearengen, G. A. Terrell, S. Stack, S. Boyce, M. A. Riley, T. D. Mast, “Classification of accurate and misarticulated rhotic syllables for simplified ultrasound biofeedback therapy,” J Acoust Soc Am, vol. 148, no. 4, pp. 2470 (2020), doi: 10.1121/1.5146836. Presenter, Poster, Virtual (Dec. 2020).
 
-> Quotes are cool.
+S. R. Li, S. Dugan, C. T. Annand, K. J. Eary, M. Swearengen, G. Terrell, S. E. Boyce, M. A. Riley, T. D. Mast, “Tongue part movement variability in /r/-final syllables measured by automatically tracking ultrasound images,” Ultrafest IX (2020), Available: https://ultrafest2020.indiana.edu/abstracts. Presenter, Oral, Virtual (Oct. 2020).
 
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-Basic notices or call-outs are supported using the following syntax:
-
-```markdown
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-```
-
-which wil render as:
-
-**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
-{: .notice}
-
-### Footnotes
-
-Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
-
-```markdown
-This is the regular text.[^1] This is more regular text.[^note]
-
-[^1]: This is the footnote itself.
-[^note]: This is another footnote.
-```
-
-[^1]: Such as this footnote.
-[^note]: When using text for footnotes markers, no spaces are permitted in the name.
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
-
-```python
-print('Hello World!')
-```
-
-or R:
-
-```R
-print("Hello World!", quote = FALSE)
-```
-
-### Details Tag (collapsible sections)
-
-The HTML `<details>` tag works well with Markdown and allows you to include collapsible sections, see [W3Schools](https://www.w3schools.com/tags/tag_details.asp) for more information on how to use the tag.
-
-<details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
-</details>
-
-The source code:
-
-```HTML
-<details>
-  <summary>Collapsed by default</summary>
-  This section was collapsed by default!
-</details>
-```
-
-Or, you can leave a section open by default by including the `open` attribute in the tag:
-
-<details open>
-  <summary>Open by default</summary>
-  This section is open by default thanks to open in the &lt;details open&gt; tag!
-</details>
-
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
-
-***
-**Footnotes**
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
+S. R. Li, S. Dugan, C. Annand, H. M. Woeste, J. A. Masterson, S. E. Boyce, T. D. Mast, M. A. Riley, “Classification of accurate and error tongue movements for /r/ in children using trajectories from ultrasound,” J Acoust Soc Am, vol. 145, no. 3, pp. 1799 (2019), doi: 10.1121/1.5101588. Presenter, Poster (May 2019).
