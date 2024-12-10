@@ -20,15 +20,15 @@ redirect_from:
 [Link](https://sarahrli.github.io/publications/)
 
 <h2>Service</h2>
+*	Treasurer (Biomedical Engineering Graduate Student Association), Sep. 2020 – Dec. 2024
 * Research Fellowship Awards Committee Member (Graduate Student Government), Mar. 2024
 *	Reviewer (Undergraduate Scholarly Showcase), Apr. 2021 and 2022
-*	Treasurer (Biomedical Engineering Graduate Student Association), Sep. 2020 – Dec. 2024
 
 <h2>Awards</h2>
 * Honorable Mention, dmi:Design Value Award Winner (TonguePARTS), Sep. 2023
 * Graduate Student Engineer of the Month, University of Cincinnati, Jun. 2023
-* Shortlisted for ISCA Best Student Paper Award, Interspeech 2021, Aug. 2021
-* IPA Student Award, ICPhS 2019, Aug. 2019
+* Shortlisted for ISCA Best Student Paper Award, Interspeech, Aug. 2021
+* IPA Student Award, ICPhS, Aug. 2019
 * Invited to give Three Minute Thesis at University of Cincinnati Bicentennial Community Day, Apr. 2019
 * Tau Beta Pi member, Jan. 2016
 * Trustees Scholarship, Purdue University, Aug. 2014
