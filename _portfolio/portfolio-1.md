@@ -6,7 +6,7 @@ collection: portfolio
 
 Using ultrasound images to understand the moving shape of the tongue can be difficult, especially for the fast pace of articulatory movement during speech production. These studies determined how the movement of different parts of the tongue could be projected to the movement of a game object in a way that distinguishes misarticulated versus accurate articulatory patterns and is easily interpreted, preparing for a clinical trial of a speech therapy game used for the American English /r/ phoneme. 
 
-##Selected publications:
+Selected publications:
 - “Classification of accurate and misarticulated /αr/ for ultrasound biofeedback using tongue part displacement trajectories,” *Clin Linguist Phon*, 2022. [Article](https://github.com/SarahRLi/sarahrli.github.io/blob/master/files/Li_2022_CLP.pdf)
 - “Preliminary gamified ultrasound visual biofeedback on rhotic syllable tongue movement for speech therapy,” *IRiS Ignite, University of Cincinnati*, 2022. [Poster](https://github.com/SarahRLi/sarahrli.github.io/blob/master/files/Li_2022_IRiS_poster.pdf)
 
