@@ -5,7 +5,7 @@
 # prevent it from being included in the site.
 
 main:
-   - title: "Research Portfolio"
+  - title: "Research Portfolio"
     url: /portfolio/
   - title: "Publications"
     url: /publications/
