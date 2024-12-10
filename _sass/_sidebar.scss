@@ -127,7 +127,6 @@
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
-  text-align: center;
 }
 
 .sidebar .author__desktop {
@@ -139,8 +138,9 @@
 
 .author__pronouns {
   margin: 0;
-  text-align: center;
-
+  padding: 15px;
+  border-top: 1px solid #888;
+   
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
@@ -153,7 +153,7 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 }
 
@@ -165,8 +165,6 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
-  paddding-top: 15px;
-  border-top: 1px solid #888;
    
   li:last-child {
     a {
