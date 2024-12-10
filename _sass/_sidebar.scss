@@ -80,6 +80,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+  text-align: center;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -117,7 +118,6 @@
 
 .author__name {
   margin: 0;
-  horizontal-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -165,6 +165,7 @@
   z-index: 10;
   position: relative;
   cursor: pointer;
+  paddding-top: 15px;
   border-top: 1px solid #888;
    
   li:last-child {
