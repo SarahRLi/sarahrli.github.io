@@ -25,8 +25,8 @@ Publications
 Service
 ======
 * Research Fellowship Awards Committee Member (Graduate Student Government), Mar. 2024
-*	Reviewer | Undergraduate Scholarly Showcase, Apr. 2021 and 2022
-*	Treasurer | Biomedical Engineering Graduate Student Association, Sep. 2020 – Dec. 2024
+*	Reviewer (Undergraduate Scholarly Showcase), Apr. 2021 and 2022
+*	Treasurer (Biomedical Engineering Graduate Student Association), Sep. 2020 – Dec. 2024
 
 Awards
 ======
