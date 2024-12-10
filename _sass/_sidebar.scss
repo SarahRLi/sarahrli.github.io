@@ -117,6 +117,7 @@
 
 .author__name {
   margin: 0;
+  horizontal-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -137,11 +138,16 @@
 
 .author__pronouns {
   margin: 0;
+  horizontal-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
   }
+}
+
+.line {
+  border-bottom: 1px solid #888;
 }
 
 .author__bio {
