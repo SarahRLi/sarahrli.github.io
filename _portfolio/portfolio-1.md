@@ -4,7 +4,7 @@ excerpt: "<div align='center'><img src='/images/simplified_ultrasound_biofeedbac
 collection: portfolio
 ---
 <div align='center'><img src='/images/simplified_ultrasound_biofeedback.gif'></div>
-<br/><br/>
+<br/>
 Using ultrasound images to understand the moving shape of the tongue can be difficult, especially for the fast pace of articulatory movement during speech production. These studies determined how the movement of different parts of the tongue could be projected to the movement of a game object in a way that distinguishes misarticulated versus accurate articulatory patterns and is easily interpreted, preparing for a clinical trial of a speech therapy game used for the American English /r/ phoneme. 
 
 Selected publications:
