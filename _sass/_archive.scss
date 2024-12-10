@@ -101,7 +101,11 @@
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
   }
-
+   
+  border: 2px solid #b29dff;
+  padding: 15px;
+  border-radius: 12px;
+   
   .page__meta {
     margin: 0 0 4px;
   }
@@ -239,6 +243,7 @@
       .archive__item-body {
         margin: 0 auto;
         width: span(7 of 12);
+        text-align: center;
       }
     }
   }
