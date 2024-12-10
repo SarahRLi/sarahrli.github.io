@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering, University of Cincinnati, 2024 (expected)
+* B.S. in Biomedical Engineering, Purdue University, 2018
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[<h1>Projects</h1>](https://sarahrli.github.io/portfolio/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[<h1>Publications</h1>](https://sarahrli.github.io/publications/)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Service
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Fellowship Awards Committee Member (Graduate Student Government), Mar. 2024
+•	Reviewer | Undergraduate Scholarly Showcase, Apr. 2021 and 2022
+•	Treasurer | Biomedical Engineering Graduate Student Association, Sep. 2020 – Dec. 2024
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Honorable Mention | dmi:Design Value Award Winner (TonguePARTS), Sep. 2023
+* Graduate Student Engineer of the Month | University of Cincinnati, Jun. 2023
+* Shortlisted for ISCA Best Student Paper Award | INTERSPEECH 2021, Aug. 2021
+* IPA Student Award | ICPhS 2019, Aug. 2019
+* Invited to give Three Minute Thesis at University of Cincinnati Bicentennial Community Day, Apr. 2019
+* Tau Beta Pi member, Jan. 2016
+* Trustees Scholarship | Purdue University, Aug. 2014
