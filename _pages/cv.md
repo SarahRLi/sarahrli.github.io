@@ -9,27 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<h2>Education</h2>
 * Ph.D in Biomedical Engineering, University of Cincinnati, 2024 (expected)
 * B.S. in Biomedical Engineering, Purdue University, 2018
 
-Projects
-======
+<h2>Projects</h2>
 [Link](https://sarahrli.github.io/portfolio/)
 
-Publications
-======
+<h2>Publications</h2>
 [Link](https://sarahrli.github.io/publications/)
 
-Service
-======
+<h2>Service</h2>
 * Research Fellowship Awards Committee Member (Graduate Student Government), Mar. 2024
 *	Reviewer (Undergraduate Scholarly Showcase), Apr. 2021 and 2022
 *	Treasurer (Biomedical Engineering Graduate Student Association), Sep. 2020 – Dec. 2024
 
-Awards
-======
+<h2>Awards</h2>
 * Honorable Mention, dmi:Design Value Award Winner (TonguePARTS), Sep. 2023
 * Graduate Student Engineer of the Month, University of Cincinnati, Jun. 2023
 * Shortlisted for ISCA Best Student Paper Award, Interspeech 2021, Aug. 2021
