@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
 ---
 
-<h2>PUBLICATIONS:</h2>
+<h2>JOURNAL ARTICLES:</h2>
 S. Dugan, S. M. Schwab, R. Seward, J. Avant, T. Zhang, S. R. Li, K. Eary, T. D. Mast, M. A. Riley, S. Boyce. (2023). “A qualitative analysis of clinician perspectives of ultrasound biofeedback for speech sound disorders,” American Journal of Speech-Language Pathology, vol. 32, no. 3, pp. 1252–1274 (2023), doi: 10.1044/2023_AJSLP-22-00194.
 
 S. R. Li, S. Dugan, J. Masterson, H. Hudepohl, C. Annand, C. Spencer, R. Seward, M. A. Riley, S. Boyce, T. D. Mast, “Classification of accurate and misarticulated /ɑr/ for ultrasound biofeedback using tongue part displacement trajectories,” Clinical Linguistics & Phonetics, pp. 1–27 (2022), doi: 10.1080/02699206.2022.2039777.
