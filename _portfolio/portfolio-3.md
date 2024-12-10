@@ -1,5 +1,5 @@
 ---
-title: "<div align='center'>Multimodal networks for articulatory prediction during ultrasound imaging</div>"
+title: "<div align='center'>Multimodal neural networks for articulatory prediction during ultrasound imaging</div>"
 excerpt: "<div align='center'><img src='/images/multimodal_articulatory_prediction.gif'></div>"
 collection: portfolio
 ---
