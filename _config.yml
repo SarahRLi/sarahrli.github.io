@@ -229,7 +229,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: default
       author_profile: true
       share: true
       comments: true
@@ -239,7 +239,6 @@ defaults:
       type: portfolio
     values:
       layout: single
-      classes: wide
       author_profile: true
       share: true
       comment: true
