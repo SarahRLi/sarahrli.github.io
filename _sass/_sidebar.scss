@@ -138,8 +138,8 @@
 
 .author__pronouns {
   margin: 0;
-  padding: 15px;
-  border-top: 1px solid #888;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #888;
    
   @include breakpoint($large) {
     margin-top: 10px;
