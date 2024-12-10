@@ -14,9 +14,13 @@ Education
 * Ph.D in Biomedical Engineering, University of Cincinnati, 2024 (expected)
 * B.S. in Biomedical Engineering, Purdue University, 2018
 
-[<h1>Projects</h1>](https://sarahrli.github.io/portfolio/)
+Projects
+======
+[Link](https://sarahrli.github.io/portfolio/)
 
-[<h1>Publications</h1>](https://sarahrli.github.io/publications/)
+Publications
+======
+[Link](https://sarahrli.github.io/publications/)
 
 Service
 ======
