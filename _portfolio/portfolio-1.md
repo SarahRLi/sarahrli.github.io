@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/simplified_ultrasound_biofeedbac.gif'>"
+title: "Speech therapy game using simplified ultrasound biofeedback"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/simplified_ultrasound_biofeedback.gif'>"
 collection: portfolio
 ---
 
