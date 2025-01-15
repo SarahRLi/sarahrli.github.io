@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h2>Education</h2>
-* Ph.D in Biomedical Engineering, University of Cincinnati, 2024 (expected)
+* Ph.D in Biomedical Engineering, University of Cincinnati, 2024
 * B.S. in Biomedical Engineering, Purdue University, 2018
 
 <h2>Projects</h2>
