@@ -4,13 +4,15 @@ title: "Publications"
 author_profile: true
 redirect_from: 
 ---
-
 <h2>JOURNAL ARTICLES:</h2>
 S. Dugan, S. M. Schwab, R. Seward, J. Avant, T. Zhang, **S. R. Li**, K. Eary, T. D. Mast, M. A. Riley, S. Boyce. (2023). “A qualitative analysis of clinician perspectives of ultrasound biofeedback for speech sound disorders,” American Journal of Speech-Language Pathology, vol. 32, no. 3, pp. 1252–1274 (2023), doi: 10.1044/2023_AJSLP-22-00194.
 
 **S. R. Li**, S. Dugan, J. Masterson, H. Hudepohl, C. Annand, C. Spencer, R. Seward, M. A. Riley, S. Boyce, T. D. Mast, “Classification of accurate and misarticulated /ɑr/ for ultrasound biofeedback using tongue part displacement trajectories,” Clinical Linguistics & Phonetics, pp. 1–27 (2022), doi: 10.1080/02699206.2022.2039777. [Article](https://sarahrli.github.io/files/Li_2022_CLP.pdf)
 
 S. Dugan, **S. R. Li**, J. A. Masterson, H. M. Woeste, N. Mahalingam, C. Spencer, T. D. Mast, M. A. Riley, S. E. Boyce, “Tongue part movement trajectories for /r/ using ultrasound,” Perspectives of the ASHA Special Interest Groups, vol. 4, no. 6, pp. 1644–1652 (2019), doi: 10.1044/2019_PERS-19-00064.
+
+<h2>DISSERTATION</h2>:
+Expanding articulatory information interpreted from ultrasound imaging[Link](http://rave.ohiolink.edu/etdc/view?acc_num=ucin1733841772461598)
 
 <h2>CONFERENCE PROCEEDINGS:</h2>
 **S. R. Li**, S. Dugan, S. M. Schwab, C. Annand, J. Masterson, S. Boyce, M. A. Riley, T. D. Mast, “Comparing tongue movement vs. shape representations from ultrasound imaging of /ɑ/ and /ɹ/ articulatory strategies,”  Stem-, Spraak- en Taalpathologie, vol. 27, suppl., pp. 235-236 (2022), doi: 10.21827/32.8310/2022-115. Presenter, Poster (Aug. 2022). [Poster](https://sarahrli.github.io/files/Li_2022_SMC_poster.pdf)
