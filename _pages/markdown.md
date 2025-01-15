@@ -11,7 +11,7 @@ S. Dugan, S. M. Schwab, R. Seward, J. Avant, T. Zhang, **S. R. Li**, K. Eary, T.
 
 S. Dugan, **S. R. Li**, J. A. Masterson, H. M. Woeste, N. Mahalingam, C. Spencer, T. D. Mast, M. A. Riley, S. E. Boyce, “Tongue part movement trajectories for /r/ using ultrasound,” Perspectives of the ASHA Special Interest Groups, vol. 4, no. 6, pp. 1644–1652 (2019), doi: 10.1044/2019_PERS-19-00064.
 
-<h2>DISSERTATION</h2>:
+<h2>DISSERTATION:</h2>
 Expanding articulatory information interpreted from ultrasound imaging[Link](http://rave.ohiolink.edu/etdc/view?acc_num=ucin1733841772461598)
 
 <h2>CONFERENCE PROCEEDINGS:</h2>
