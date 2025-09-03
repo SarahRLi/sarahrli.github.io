@@ -10,4 +10,4 @@ Although ultrasound images of the tongue provide useful articulatory information
 Presentations:
 - "Numerical simulations for characterization of missing articulatory information in ultrasound imaging for speech," *ASA*, 2023. [Poster](https://sarahrli.github.io/files/Li_2023_ASA_5aBAb16_poster.pdf), [Slides](https://sarahrli.github.io/files/Li_2023_ASA_5aBAb16_slides.pptx)
 - "Quantifying tongue tip visibility in ultrasound images of /r/ tongue shapes using numerical ultrasound simulations," *ASA*, 2023. [Poster](https://sarahrli.github.io/files/Li_2023_ASA_5aSC37_poster.pdf)
-- "Elucidating ultrasound imaging of /ɹ/ tongue shapes using full-wave numerical image simulations," J Acoust Soc Am, 2025. [Article] (https://pubs.aip.org/asa/jasa/article/158/3/1663/3361188/Elucidating-ultrasound-imaging-of-tongue-shapes)
+- "Elucidating ultrasound imaging of /ɹ/ tongue shapes using full-wave numerical image simulations," J Acoust Soc Am, 2025. [Article](https://pubs.aip.org/asa/jasa/article/158/3/1663/3361188/Elucidating-ultrasound-imaging-of-tongue-shapes)
